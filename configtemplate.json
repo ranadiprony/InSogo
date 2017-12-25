@@ -1,0 +1,11 @@
+{
+  "appdata":{
+    "appname" : "InSogo"
+
+
+  },
+  "config": {
+    "appid": "your appid for tech paisa",
+    "appkey":"your app key for tech paisa"
+  }
+}
